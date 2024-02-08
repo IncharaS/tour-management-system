@@ -22,3 +22,7 @@ Going back to the explore page, if you click on the transportation button, you w
 Upon selecting the destination city from the drop-down menu and click “Show Results”, any busses or flights going from the departure city to the destination city will appear. Once you select “Book” for one of the modes of transportation, the “Enter details” section will appear where you can add in the required information. Once you select “submit” you will be prompted to enter payment information to finalize your booking. After making hotel and transportation bookings, the site will automatically generate an itinerary for you, which is accessible via the “Tours” link at the top of every page. On this page, you will find the details of all of your bookings. This itinerary can be shared with other travelers in your group. Everyone can leave comments on the itinerary to help coordinate travel plans. The user will be able to click on the different hotels they have selected to view their pinpoint locations on the map. Below that is an area to load other travelers' comments on the plan as well as post your own.
 
 ![Screenshot (224)](https://github.com/IncharaS/tour-management-system/assets/60838958/7b049c07-d3eb-476f-b001-1cf87b5c6bb4)
+
+Itinerary details are sent via email to the user.
+![WhatsApp Image 2024-02-08 at 5 18 54 PM](https://github.com/IncharaS/tour-management-system/assets/60838958/88193a29-a0af-4e56-a57b-749540b8b630)
+
